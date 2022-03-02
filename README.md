@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Traveling, Teaching, Reading Books
 
 
-
-
 ### 🛠 &nbsp;Tech Stacks
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=FFA518)&nbsp;&nbsp;
@@ -41,7 +39,6 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20px" height="20px"> &nbsp; IDE
-
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-05122A?&style=flat&logo=sublime-text&logoColor=important)&nbsp;
@@ -49,7 +46,6 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px" height="20px"> &nbsp; OS
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
@@ -59,8 +55,14 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/9895048/netra-pd-neupane">![stackoverflow](https://img.shields.io/badge/Stack_Overflow-05122A?style=flat&logo=stack-overflow&logoColor=white)&nbsp;</a>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+###  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20px" height="20px"> &nbsp; Education
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flatgo=Coursera&logoColor=white)&nbsp;
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat&logo=udacity&logoColor=#5FCFEE)&nbsp;
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F)&nbsp;
+![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=flat&logo=freecodecamp&logoColor=white)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/np-n">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=np-n&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
