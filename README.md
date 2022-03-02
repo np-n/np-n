@@ -41,12 +41,15 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20px" height="20px"> &nbsp; IDE
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
-![colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/sublime_text-05122A?&style=flat&logo=sublime-text&logoColor=important)&nbsp;
+![colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)&nbsp;
 
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px" height="20px"> &nbsp; OS
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
@@ -54,6 +57,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/np-n/">![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)&nbsp;</a>
 <a href="https://www.quora.com/profile/Netra-Neupane-1">![Quora](https://img.shields.io/badge/Quora-05122A?&style=for-flat&logo=Quora&logoColor=white)&nbsp;</a>
 <a href="https://stackoverflow.com/users/9895048/netra-pd-neupane">![stackoverflow](https://img.shields.io/badge/Stack_Overflow-05122A?style=flat&logo=stack-overflow&logoColor=white)&nbsp;</a>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
