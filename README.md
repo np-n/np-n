@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-### ![image](https://user-images.githubusercontent.com/39429615/156290553-f1281de8-47bf-4766-85a6-2eb2cb52da62.png)&nbsp; IDE
+### ![image](https://user-images.githubusercontent.com/39429615/156290553-f1281de8-47bf-4766-85a6-2eb2cb52da62.png|width="50%" height="50%")&nbsp; IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
