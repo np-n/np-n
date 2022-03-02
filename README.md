@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science and AI Projects
-- ⚡ Fun fact: Traveling,Reading Books
+- ⚡ Fun fact: Traveling, Reading Books
 
 
 
