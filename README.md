@@ -39,18 +39,18 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-### &nbsp; IDE
+### ![image](https://user-images.githubusercontent.com/39429615/156290553-f1281de8-47bf-4766-85a6-2eb2cb52da62.png)&nbsp; IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
 ![colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)
 
 
-### &nbsp; OS
+### ![image](https://user-images.githubusercontent.com/39429615/156290660-033cac25-118b-4b97-8d67-3e61deef6025.png)&nbsp; OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
-### &nbsp; Social
+### ![image](https://user-images.githubusercontent.com/39429615/156290705-22052beb-45fe-4e8d-812a-1b3593d3fb8a.png)&nbsp; Social
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
