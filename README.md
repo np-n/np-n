@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
-### &nbsp; Social
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468.png" width="50%" height="50%">&nbsp; Social
 <a href="https://www.linkedin.com/in/np-n/">![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
