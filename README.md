@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science and AI Projects
 - ⚡ Fun fact: Traveling,Reading Books
-- 📫 How to reach me: <a href='https://www.linkedin.com/in/np-n/'>![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)&nbsp;</a>
-
 
 
 
@@ -51,6 +49,9 @@ Here are some ideas to get you started:
 ### &nbsp; OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
+
+### &nbsp; Social
+![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
