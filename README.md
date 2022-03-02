@@ -5,17 +5,18 @@
 <!--
 **np-n/np-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Travelling,Reading Books
--->
+- ⚡ Fun fact: Traveling,Reading Books
+
 
 
 
