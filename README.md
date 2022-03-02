@@ -39,14 +39,13 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-### &nbsp; IDE
-
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20px" height="20px"> &nbsp; IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
 ![colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)
 
 
-### &nbsp; OS
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px" height="20px"> &nbsp; OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
