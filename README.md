@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
 ### &nbsp; Social
-![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/np-n/">![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
