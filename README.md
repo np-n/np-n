@@ -1,13 +1,12 @@
 ### Hi there, I'm Netra 👋
 
-#### AI,ML & Data Science Enthusiast
+#### AI, ML & Data Science Enthusiast
 
 <!--
 **np-n/np-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
 Here are some ideas to get you started:
@@ -15,7 +14,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science and AI Projects
+- 📫 How to reach me: <a href="https://www.netraprasadneupane.com.np/">netraprasadneupane.com.np</a>
 - ⚡ Fun fact: Traveling, Reading Books
+
 
 
 
