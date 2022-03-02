@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468.png" width="20px" height="20px">&nbsp; Social
-<a href="https://www.linkedin.com/in/np-n/">![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)</a>
-
+<a href="https://www.linkedin.com/in/np-n/">![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)&nbsp;</a>
+<a href="https://www.quora.com/profile/Netra-Neupane-1">![Quora](https://img.shields.io/badge/Quora-05122A?&style=for-flat&logo=Quora&logoColor=white)&nbsp;</a>
+<a href="https://stackoverflow.com/users/9895048/netra-pd-neupane">![stackoverflow](https://img.shields.io/badge/Stack_Overflow-05122A?style=flat&logo=stack-overflow&logoColor=white)&nbsp;</a>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
