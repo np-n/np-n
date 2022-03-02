@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 
 
 ###  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20px" height="20px"> &nbsp; Education
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flatgo=Coursera&logoColor=white)&nbsp;
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat&logo=udacity&logoColor=#5FCFEE)&nbsp;
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F)&nbsp;
-![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=flat&logo=freecodecamp&logoColor=white)&nbsp;
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white)&nbsp;
+![Coursera](https://img.shields.io/badge/Coursera-05122A?style=flatgo=Coursera&logoColor=white)&nbsp;
+![Udacity](https://img.shields.io/badge/Udacity-05122A?style=flat&logo=udacity&logoColor=#5FCFEE)&nbsp;
+![Datacamp](https://img.shields.io/badge/Datacamp-05122A?style=flat&logo=datacamp&logoColor=65FF8F)&nbsp;
+![freecodecamp](https://img.shields.io/badge/freecodecamp-05122A?style=flat&logo=freecodecamp&logoColor=white)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-05122A?style=flat&logo=Udemy&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
