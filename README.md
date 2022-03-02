@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=FFA518)&nbsp;&nbsp;
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)&nbsp;
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy&logoColor=white)&nbsp;
+![pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit_learn-05122A?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=flat&logo=Streamlit&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=006400)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 ### &nbsp; IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
-![colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
+![PyCharm](https://img.shields.io/badge/PyCharm-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
+![colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)
 
 
 ### &nbsp; OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
