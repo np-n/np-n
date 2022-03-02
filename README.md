@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stacks
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=FFA518)&nbsp;&nbsp;
 ![NumPy](https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy&logoColor=white)&nbsp;
