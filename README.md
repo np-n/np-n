@@ -1,6 +1,6 @@
 ### Hi there, I'm Netra 👋
 
-#### AI, ML & Data Science Enthusiast
+#### AI, ML & Data Science Practitioner, BlockChain Enthusiast
 
 <!--
 **np-n/np-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
