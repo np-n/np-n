@@ -68,5 +68,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<a href="https://github.com/np-n/github-readme-activity-graph"><img alt="Netra's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=np-n&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
