@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science & Blockchain.
 - 👯 I’m looking to collaborate on Data Science and AI Projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/netraneupane/">linkedin.com/netraneupane</a>
-- ⚡ Fun fact: Traveling & Vlogging, Teaching, Reading Books
+- ⚡ Fun fact: Traveling & <a href="https://www.youtube.com/@vloggingwithnetra">Vlogging</a>, Teaching, Reading Books
 
 
 ### 🛠 &nbsp;Tech Stacks
