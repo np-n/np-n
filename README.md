@@ -11,8 +11,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Computer Vision.
-- 🌱 I’m currently learning Data Science & Blockchain.
+- 🔭 I’m currently working on Computer Vision, Machine Learning and Natural Language Processing.
+- 🌱 I’m currently learning Generative AI & Quantum Computing.
 - 👯 I’m looking to collaborate on Data Science and AI Projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/netraneupane/">linkedin.com/netraneupane</a>
 - ⚡ Fun fact: Traveling & <a href="https://www.youtube.com/@vloggingwithnetra">Vlogging</a>, Teaching, Reading Books
