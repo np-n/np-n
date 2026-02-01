@@ -1,6 +1,6 @@
 ### Hi there, I'm Netra 👋
 
-#### Machine Learning Engineer, Cyber Security, BlockChain & Quantum Computing Enthusiast
+#### Machine Learning Engineer, BlockChain & Quantum Computing Enthusiast
 
 <!--
 **np-n/np-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
